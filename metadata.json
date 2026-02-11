@@ -1,0 +1,5 @@
+{
+  "name": "MktCate",
+  "description": "A Taobao keyword market analysis tool featuring automated product classification, price band analysis, and market statistics visualization.",
+  "requestFramePermissions": []
+}
